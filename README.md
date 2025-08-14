@@ -1,27 +1,27 @@
 <p align="center">
 
 <!-- Backend -->
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white">
+<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white"></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"></a>
 
 <!-- Frontend -->
-<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/Livewire-4F46E5?logo=livewire&logoColor=white">
+<a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
+<a href="https://laravel-livewire.com/" target="_blank"><img src="https://img.shields.io/badge/Livewire-4F46E5?logo=livewire&logoColor=white"></a>
 
 <!-- Mobile -->
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
+<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"></a>
 
 <!-- Database -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"></a>
 
 <!-- Tools -->
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black">
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
+<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"></a>
+<a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black"></a>
 
 </p>
 
