@@ -22,7 +22,7 @@ jobs:
       - name: Replace quote in README
         run: |
           QUOTE_ESCAPED=$(echo "${{ steps.quote.outputs.quote }}" | sed 's/[&/\]/\\&/g')
-          sed -i "s/^> \*\"{{QUOTE_PLACEHOLDER}}\"\*/> *\"${QUOTE_ESCAPED}\"*/" README.md
+          sed -i 's/^> \*".*"\*/> *"'"$QUOTE_ESCAPED"'"*/' README.md
 
       - name: Commit and push
         run: |
