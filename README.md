@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 
 <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"></a>
 <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"></a>
@@ -14,7 +14,7 @@
 <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"></a>
 <a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black"></a>
 
-</p>
+</div>
 
 # 👋 Hi there, I'm Matias Krabzik  
 **Backend Developer | Laravel Enthusiast | Tech Explorer**
