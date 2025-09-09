@@ -2,7 +2,7 @@ name: Update daily quote in README
 
 on:
   schedule:
-  - cron: '50 22 * * *'
+  - cron: '55 1 * * *'
   workflow_dispatch:
 
 jobs:
