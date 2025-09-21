@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Your code is your voice. Make it speak clearly."*
+> *"Great developers are not born. They are made through hard work."*
