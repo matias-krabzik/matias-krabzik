@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Talk is cheap. Show me the code."*
+> *"Never confuse a single defeat with a final defeat."*
