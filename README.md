@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Chase the vision, not the money."*
+> *"Persistence guarantees that results are inevitable."*
