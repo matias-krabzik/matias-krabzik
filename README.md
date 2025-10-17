@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"First, solve the problem. Then, write the code."*
+> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."*
