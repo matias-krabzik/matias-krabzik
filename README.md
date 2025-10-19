@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Computers are good at following instructions, but not at reading your mind."*
+> *"The best way to predict the future is to invent it."*
