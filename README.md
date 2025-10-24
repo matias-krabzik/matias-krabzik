@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Your code is your voice. Make it speak clearly."*
+> *"Programming isn’t about what you know"*
