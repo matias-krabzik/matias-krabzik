@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"The best tools in the world wont help you if you dont write good code."*
+> *"Programming is the art of algorithm design and the craft of debugging errant code."*
