@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Deleted code is debugged code."*
+> *"Consistency is what transforms average into excellence."*
