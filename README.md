@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Creativity is intelligence having fun."*
+> *"Keep calm and code on."*
