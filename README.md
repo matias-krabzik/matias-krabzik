@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Keep calm and code on."*
+> *"If you can’t explain it simply, you don’t understand it well enough."*
