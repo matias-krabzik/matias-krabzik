@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Every strike brings me closer to the next home run."*
+> *"Deleted code is debugged code."*
