@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Good architecture is invisible."*
+> *"Don’t let perfection be the enemy of progress."*
