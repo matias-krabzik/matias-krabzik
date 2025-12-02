@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Don’t let perfection be the enemy of progress."*
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*
