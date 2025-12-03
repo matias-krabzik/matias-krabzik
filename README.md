@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+> *"The function of good software is to make the complex appear simple."*
