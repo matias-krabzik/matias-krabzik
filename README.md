@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"The function of good software is to make the complex appear simple."*
+> *"Great developers are not born. They are made through hard work."*
