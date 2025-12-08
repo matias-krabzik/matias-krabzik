@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"The only way to learn a new programming language is by writing programs in it."*
+> *"Nothing will work unless you do."*
