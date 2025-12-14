@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Experience is the name everyone gives to their mistakes."*
+> *"Simplicity is the soul of efficiency."*
