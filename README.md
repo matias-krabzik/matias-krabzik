@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Sometimes its better to leave something alone, to pause, and thats very true of programming."*
+> *"You miss 100% of the shots you don’t take."*
