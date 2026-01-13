@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"People don’t care about what you say, they care about what you build."*
+> *"Testing leads to failure, and failure leads to understanding."*
