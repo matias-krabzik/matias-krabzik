@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"You can’t have great software without a great team."*
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*
