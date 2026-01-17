@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+> *"A river cuts through rock not because of its power, but because of its persistence."*
