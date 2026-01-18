@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"A river cuts through rock not because of its power, but because of its persistence."*
+> *"Success is the sum of small efforts repeated day in and day out."*
