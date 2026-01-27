@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Programming isn’t about what you know"*
+> *"Fix the cause, not the symptom."*
