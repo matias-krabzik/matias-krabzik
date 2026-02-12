@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Creativity is intelligence having fun."*
+> *"Success usually comes to those who are too busy to be looking for it."*
