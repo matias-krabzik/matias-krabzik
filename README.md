@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Good code is its own best documentation."*
+> *"Code is not just code, it’s poetry."*
