@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"The function of good software is to make the complex appear simple."*
+> *"Hard work beats talent when talent doesn’t work hard."*
