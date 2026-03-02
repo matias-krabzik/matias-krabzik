@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Code with purpose, not just to build."*
+> *"Success is the sum of small efforts repeated day in and day out."*
