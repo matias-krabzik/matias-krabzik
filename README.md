@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Small deeds done are better than great deeds planned."*
+> *"The best way out is always through."*
