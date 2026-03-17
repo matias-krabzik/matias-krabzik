@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Programs are meant to be read by humans and only incidentally for computers to execute."*
+> *"Make it work, make it right, make it fast."*
