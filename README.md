@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"The best way to predict the future is to invent it."*
+> *"Fix the cause, not the symptom."*
