@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Testing leads to failure, and failure leads to understanding."*
+> *"You miss 100% of the shots you don’t take."*
