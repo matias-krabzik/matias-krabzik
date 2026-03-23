@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Persistence guarantees that results are inevitable."*
+> *"In order to be irreplaceable, one must always be different."*
