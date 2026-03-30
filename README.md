@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Learning to write programs stretches your mind."*
+> *"A goal without a plan is just a wish."*
