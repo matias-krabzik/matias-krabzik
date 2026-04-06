@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Chase the vision, not the money."*
+> *"Don’t wait. The time will never be just right."*
