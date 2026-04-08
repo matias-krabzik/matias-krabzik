@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Persistence guarantees that results are inevitable."*
+> *"If you can’t explain it simply, you don’t understand it well enough."*
