@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"If you can’t explain it simply, you don’t understand it well enough."*
+> *"Don’t wait. The time will never be just right."*
