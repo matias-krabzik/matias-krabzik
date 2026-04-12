@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Be stubborn about your goals and flexible about your methods."*
+> *"Success is the sum of small efforts repeated day in and day out."*
