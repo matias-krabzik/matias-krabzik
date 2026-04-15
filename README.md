@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"A goal without a plan is just a wish."*
+> *"The best code is no code at all."*
