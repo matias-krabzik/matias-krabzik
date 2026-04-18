@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"You don’t have to be great to start, but you have to start to be great."*
+> *"Code never lies, comments sometimes do."*
