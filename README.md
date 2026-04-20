@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Don’t wait. The time will never be just right."*
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
