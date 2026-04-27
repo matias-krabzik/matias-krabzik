@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"The computer was born to solve problems that did not exist before."*
+> *"Programming is thinking, not typing."*
