@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Work hard in silence, let your code make the noise."*
+> *"The future depends on what you do today."*
