@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Programming isnt about typing, its about thinking."*
+> *"Discipline is the bridge between goals and accomplishment."*
