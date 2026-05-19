@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Make it work, make it right, make it fast."*
+> *"Whether you think you can or you think you can’t, you’re right."*
