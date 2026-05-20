@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Whether you think you can or you think you can’t, you’re right."*
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*
