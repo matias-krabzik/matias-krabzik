@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Done is better than perfect."*
+> *"People don’t care about what you say, they care about what you build."*
