@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Fix the cause, not the symptom."*
+> *"If debugging is the process of removing bugs, then programming must be the process of putting them in."*
