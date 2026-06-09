@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Experience is the name everyone gives to their mistakes."*
+> *"The computer was born to solve problems that did not exist before."*
