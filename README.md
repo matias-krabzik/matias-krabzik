@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Fix the cause, not the symptom."*
+> *"You miss 100% of the shots you don’t take."*
