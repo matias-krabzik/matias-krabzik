@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"If debugging is the process of removing bugs, then programming must be the process of putting them in."*
+> *"Simplicity is the soul of efficiency."*
