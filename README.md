@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Simplicity is the soul of efficiency."*
+> *"Dream big. Start small. Act now."*
