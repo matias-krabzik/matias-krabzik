@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Consistency is what transforms average into excellence."*
+> *"Good architecture is invisible."*
