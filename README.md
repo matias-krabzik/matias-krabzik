@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Think twice, code once."*
+> *"Deleted code is debugged code."*
