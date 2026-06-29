@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Deleted code is debugged code."*
+> *"Programs are meant to be read by humans and only incidentally for computers to execute."*
