@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Programs are meant to be read by humans and only incidentally for computers to execute."*
+> *"Success usually comes to those who are too busy to be looking for it."*
