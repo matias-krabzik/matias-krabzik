@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Great things are done by a series of small things brought together."*
+> *"Never confuse a single defeat with a final defeat."*
