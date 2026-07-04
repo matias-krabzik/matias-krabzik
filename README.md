@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Never confuse a single defeat with a final defeat."*
+> *"Hard work beats talent when talent doesn’t work hard."*
