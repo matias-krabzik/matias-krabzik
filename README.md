@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Optimism is an occupational hazard of programming."*
+> *"Experience is the name everyone gives to their mistakes."*
