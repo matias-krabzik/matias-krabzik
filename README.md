@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Big journeys begin with small steps of code."*
+> *"You don’t need to see the whole staircase, just take the first step."*
