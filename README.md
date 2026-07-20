@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Deleted code is debugged code."*
+> *"You miss 100% of the shots you don’t take."*
