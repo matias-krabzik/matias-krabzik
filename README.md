@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Progress, not perfection."*
+> *"Optimism is an occupational hazard of programming."*
