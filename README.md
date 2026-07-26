@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Programming isn’t about what you know"*
+> *"Testing leads to failure, and failure leads to understanding."*
