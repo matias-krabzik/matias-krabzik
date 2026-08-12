@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Dream big. Start small. Act now."*
+> *"Nothing will work unless you do."*
