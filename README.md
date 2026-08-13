@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Nothing will work unless you do."*
+> *"Simplicity is prerequisite for reliability."*
