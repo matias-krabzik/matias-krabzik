@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Programming is thinking, not typing."*
+> *"A good programmer is someone who always looks both ways before crossing a one-way street."*
