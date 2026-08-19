@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Whether you think you can or you think you can’t, you’re right."*
+> *"Fix the cause, not the symptom."*
