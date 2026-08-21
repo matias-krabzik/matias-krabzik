@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Fix the cause, not the symptom."*
+> *"Programming is the art of algorithm design and the craft of debugging errant code."*
