@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"The future depends on what you do today."*
+> *"Failure is simply the opportunity to begin again, this time more intelligently."*
