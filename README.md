@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Failure is simply the opportunity to begin again, this time more intelligently."*
+> *"Action is the foundational key to all success."*
