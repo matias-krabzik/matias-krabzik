@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Action is the foundational key to all success."*
+> *"Be the programmer you needed when you were learning."*
