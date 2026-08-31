@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Be the programmer you needed when you were learning."*
+> *"Simplicity is prerequisite for reliability."*
