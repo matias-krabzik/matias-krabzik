@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Don’t let perfection be the enemy of progress."*
+> *"Testing leads to failure, and failure leads to understanding."*
