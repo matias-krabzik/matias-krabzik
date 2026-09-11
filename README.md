@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Clean code always looks like it was written by someone who cares."*
+> *"Programming isnt about typing, its about thinking."*
