@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"The function of good software is to make the complex appear simple."*
+> *"Before software can be reusable it first has to be usable."*
