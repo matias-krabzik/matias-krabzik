@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Before software can be reusable it first has to be usable."*
+> *"The future depends on what you do today."*
