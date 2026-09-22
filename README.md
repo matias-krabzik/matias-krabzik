@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"The future depends on what you do today."*
+> *"Programming isn’t about what you know"*
