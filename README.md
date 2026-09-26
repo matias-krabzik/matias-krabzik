@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"You miss 100% of the shots you don’t take."*
+> *"Experience is the name everyone gives to their mistakes."*
