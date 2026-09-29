@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Computers are good at following instructions, but not at reading your mind."*
+> *"If you can’t explain it simply, you don’t understand it well enough."*
