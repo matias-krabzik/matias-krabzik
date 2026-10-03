@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Hard work beats talent when talent doesn’t work hard."*
+> *"Computers are good at following instructions, but not at reading your mind."*
