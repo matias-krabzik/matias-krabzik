@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Failure is simply the opportunity to begin again, this time more intelligently."*
+> *"Code is not just code, it’s poetry."*
