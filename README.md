@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Refactor relentlessly."*
+> *"A good programmer is someone who always looks both ways before crossing a one-way street."*
