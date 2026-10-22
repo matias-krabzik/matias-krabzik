@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Make it work, make it right, make it fast."*
+> *"In order to be irreplaceable, one must always be different."*
