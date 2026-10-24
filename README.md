@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Start where you are. Use what you have. Do what you can."*
+> *"Programs are meant to be read by humans and only incidentally for computers to execute."*
