@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Don’t let perfection be the enemy of progress."*
+> *"Hard work beats talent when talent doesn’t work hard."*
