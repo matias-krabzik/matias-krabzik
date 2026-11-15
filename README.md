@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"To iterate is human, to recurse divine."*
+> *"First, solve the problem. Then, write the code."*
