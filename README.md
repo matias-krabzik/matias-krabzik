@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"First, solve the problem. Then, write the code."*
+> *"Before software can be reusable it first has to be usable."*
