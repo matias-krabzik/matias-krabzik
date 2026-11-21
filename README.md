@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Any sufficiently advanced technology is indistinguishable from magic."*
+> *"Keep calm and code on."*
