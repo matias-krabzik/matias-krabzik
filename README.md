@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Keep calm and code on."*
+> *"Great things are done by a series of small things brought together."*
