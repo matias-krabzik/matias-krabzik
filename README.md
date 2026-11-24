@@ -46,4 +46,4 @@ I’m a backend developer passionate about building efficient and scalable solut
 
 <p></p>
 
-> *"Focus on being productive instead of busy."*
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
